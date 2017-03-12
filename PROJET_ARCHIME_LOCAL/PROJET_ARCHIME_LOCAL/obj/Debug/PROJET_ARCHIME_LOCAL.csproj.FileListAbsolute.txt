@@ -1,0 +1,15 @@
+c:\users\nnbbbbbbbnn\documents\visual studio 2015\Projects\PROJET_ARCHIME_LOCAL\PROJET_ARCHIME_LOCAL\bin\Debug\PROJET_ARCHIME_LOCAL.exe.config
+c:\users\nnbbbbbbbnn\documents\visual studio 2015\Projects\PROJET_ARCHIME_LOCAL\PROJET_ARCHIME_LOCAL\bin\Debug\Database1.accdb
+c:\users\nnbbbbbbbnn\documents\visual studio 2015\Projects\PROJET_ARCHIME_LOCAL\PROJET_ARCHIME_LOCAL\bin\Debug\PROJET_ARCHIME_LOCAL.exe
+c:\users\nnbbbbbbbnn\documents\visual studio 2015\Projects\PROJET_ARCHIME_LOCAL\PROJET_ARCHIME_LOCAL\bin\Debug\PROJET_ARCHIME_LOCAL.pdb
+c:\users\nnbbbbbbbnn\documents\visual studio 2015\Projects\PROJET_ARCHIME_LOCAL\PROJET_ARCHIME_LOCAL\obj\Debug\PROJET_ARCHIME_LOCAL.csprojResolveAssemblyReference.cache
+c:\users\nnbbbbbbbnn\documents\visual studio 2015\Projects\PROJET_ARCHIME_LOCAL\PROJET_ARCHIME_LOCAL\obj\Debug\PROJET_ARCHIME_LOCAL.connexion.resources
+c:\users\nnbbbbbbbnn\documents\visual studio 2015\Projects\PROJET_ARCHIME_LOCAL\PROJET_ARCHIME_LOCAL\obj\Debug\PROJET_ARCHIME_LOCAL.Properties.Resources.resources
+c:\users\nnbbbbbbbnn\documents\visual studio 2015\Projects\PROJET_ARCHIME_LOCAL\PROJET_ARCHIME_LOCAL\obj\Debug\PROJET_ARCHIME_LOCAL.csproj.GenerateResource.Cache
+c:\users\nnbbbbbbbnn\documents\visual studio 2015\Projects\PROJET_ARCHIME_LOCAL\PROJET_ARCHIME_LOCAL\obj\Debug\PROJET_ARCHIME_LOCAL.exe
+c:\users\nnbbbbbbbnn\documents\visual studio 2015\Projects\PROJET_ARCHIME_LOCAL\PROJET_ARCHIME_LOCAL\obj\Debug\PROJET_ARCHIME_LOCAL.pdb
+c:\users\nnbbbbbbbnn\documents\visual studio 2015\Projects\PROJET_ARCHIME_LOCAL\PROJET_ARCHIME_LOCAL\bin\Debug\MySql.Data.dll
+c:\users\nnbbbbbbbnn\documents\visual studio 2015\Projects\PROJET_ARCHIME_LOCAL\PROJET_ARCHIME_LOCAL\bin\Debug\MySql.Data.xml
+c:\users\nnbbbbbbbnn\documents\visual studio 2015\Projects\PROJET_ARCHIME_LOCAL\PROJET_ARCHIME_LOCAL\obj\Debug\PROJET_ARCHIME_LOCAL.Acceuil_interface.resources
+C:\Users\nnbbbbbbbnn\documents\visual studio 2015\Projects\PROJET_ARCHIME_LOCAL\PROJET_ARCHIME_LOCAL\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\nnbbbbbbbnn\documents\visual studio 2015\Projects\PROJET_ARCHIME_LOCAL\PROJET_ARCHIME_LOCAL\bin\Debug\FR\System.Data.SqlServerCe.resources.dll
